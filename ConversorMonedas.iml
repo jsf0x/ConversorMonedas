@@ -7,5 +7,14 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../CURSO 4 - CONSUMO API - ARCHIVOS Y MANEJO ERRORES/2 UTILIZANDO UNA BIBLIOTECA EXTERNA/LIBRERIAS GSON/gson-2.11.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

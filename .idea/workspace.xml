@@ -4,20 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02396216-4908-4e97-a4b4-300cc975e46a" name="Changes" comment="Creando Conversor monedas">
-      <change beforePath="$PROJECT_DIR$/ConversorModenas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ConversorMonedas.iml" afterDir="false" />
+    <list default="true" id="02396216-4908-4e97-a4b4-300cc975e46a" name="Changes" comment="Cambiando nombre del proyecto">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConversorExchanges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exchanges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrincipalConversor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConversorMonedas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ConversorMonedas.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2iILt14FthqWNGpGOKoD1zKgmN4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,9 +39,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.PrincipalConversor.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/DOCUMENTOS 2023/Escritorio/UNIGUAJIRA 2024/CURSOS/ORACLE NEXT EDUCATION/PARTE 2 CURSO/CURSO 4 - CONSUMO API - ARCHIVOS Y MANEJO ERRORES/2 UTILIZANDO UNA BIBLIOTECA EXTERNA/LIBRERIAS GSON/gson-2.11.0.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -48,11 +67,31 @@
       <option name="project" value="LOCAL" />
       <updated>1719177356430</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Cambiando nombre del proyecto">
+      <option name="closed" value="true" />
+      <created>1719177881301</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719177881301</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creando Conversor monedas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creando Conversor monedas" />
+    <MESSAGE value="Cambiando nombre del proyecto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambiando nombre del proyecto" />
   </component>
 </project>
