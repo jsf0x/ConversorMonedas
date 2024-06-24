@@ -18,7 +18,7 @@
 <img src="https://github.com/jsf0x/ConversorMonedas/assets/22265851/c506f254-502a-4a19-a65b-c9b818e027b2">
 
 <p>Aparecerá de forma inmediata la conversión y nuevamente el menú listo para convertir a cualquier otra moneda</p><br>
-<img src="https://github.com/jsf0x/ConversorMonedas/assets/22265851/aa311b4c-6b1e-44ed-9efa-63238645c501">
+<img src="https://github.com/jsf0x/ConversorMonedas/assets/22265851/a0b95676-0816-44da-80d4-4f4697952066">
 
 <p>Finalmente cuando hayas terminado de usar la aplicación, selecciona la opción 7.</p>
 
